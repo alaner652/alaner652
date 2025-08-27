@@ -43,12 +43,12 @@ Passionate developer currently honing skills in full-stack development, game dev
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ynoob87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=issues&card_width=495" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alaner652&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=issues&card_width=495" />
   
   <br/>
   <br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynoob87&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaner652&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
