@@ -19,26 +19,28 @@
 
 ## 👨‍💻 About Me
 
-Passionate developer currently honing skills in full-stack development, game development, and algorithm design. Actively improving coding proficiency, tackling new challenges, and refining problem-solving techniques.
+Passionate developer with experience in **full-stack development**, **game development**, and **automation tools**.  
+Currently sharpening my **algorithm & system design skills** while building real-world projects and preparing for future opportunities in **software engineering**.
 
 ### 🎯 What I’m Working On
 
-- **LeetCode**: Practicing algorithm and data structure challenges to enhance problem-solving skills.
-- **Full-Stack Projects**: Building and refining full-stack applications with Next.js.
-- **Game Development**: Developing interactive experiences using Roblox Studio and Lua, with a focus on game mechanics and custom UI designs.
+- **Algorithms & Data Structures**: Daily practice on LeetCode to strengthen problem-solving skills.
+- **Full-Stack Projects**: Building scalable apps with Next.js, Tailwind, and modern backend solutions (Appwrite / Supabase).
+- **Game Development**: Creating combat systems, frameworks, and interactive experiences on Roblox Studio with Lua.
 
 ### 🌟 Highlights
 
-- 🎓 Student majoring in Information Engineering at Taipei University of Science and Technology.
-- 🎮 Many years of experience in Roblox game development.
-- 🚀 Currently working on improving my LeetCode score, studying algorithms, system design, and solving coding challenges to prepare for software engineering opportunities.
-- 🛠️Actively learn new technologies and improve code quality.
+- 🎓 Student at **Taipei City University of Science and Technology**, majoring in Information Engineering (5-year program).  
+- 🎮 Years of Roblox development, focusing on **combat mechanics**, **framework design**, and **custom UI/UX**.  
+- 🛠️ First script lead at a game studio, contributing to system design and gameplay mechanics.  
+- 🚀 Actively preparing for **transfer exams, internships, and graduate opportunities** with a strong focus on algorithms & problem-solving.
 
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,nodejs,lua,python,cpp,mongodb,appwrite,supabase,git&perline=15" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,nodejs,lua,python,cpp,mongodb,appwrite,supabase,git,discord&perline=15" />
 </div>
+
 
 ## 📊 GitHub Stats
 
