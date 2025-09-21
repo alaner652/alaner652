@@ -45,7 +45,7 @@ Currently sharpening my **algorithm & system design skills** while building real
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaner652&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&hide=issues&card_width=495" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alaner652&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues&card_width=495" />
   
   <br/>
   <br/>
