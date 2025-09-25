@@ -5,7 +5,7 @@
   <h3>Full-Stack Developer | Game Developer</h3>
   
   <p>
-    <a href="https://smallr-portfolio-2025.vercel.app">
+    <a href="https://alaner652.com">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="mailto:hhgg12661@gmail.com">
@@ -17,30 +17,28 @@
   </p>
 </div>
 
-## 👨‍💻 About Me
+---
 
-Passionate developer with experience in **full-stack development**, **game development**, and **automation tools**.  
-Currently sharpening my **algorithm & system design skills** while building real-world projects and preparing for future opportunities in **software engineering**.
+I am currently a **student in the Department of Information Engineering (5-year program)**. I started programming in middle school through Roblox Studio, which sparked my interest in **game design and interactive logic**. Over time, I expanded my skills into **full-stack web development, data handling, and automation tools**.  
 
-### 🎯 What I’m Working On
+I focus on **solving real problems and completing usable projects** rather than just learning syntax. Even as a student, I have hands-on experience spanning front-end, back-end, and game systems, which has helped me develop a more mature approach to coding and project management.  
 
-- **Algorithms & Data Structures**: Daily practice on LeetCode to strengthen problem-solving skills.
-- **Full-Stack Projects**: Building scalable apps with Next.js, Tailwind, and modern backend solutions (Appwrite / Supabase).
-- **Game Development**: Creating combat systems, frameworks, and interactive experiences on Roblox Studio with Lua.
+I enjoy taking ideas all the way to something tangible:  
+- From **e-commerce and personal portfolio websites** to multiple versions of site restructuring, learning how to integrate UI/UX and data flows  
+- From **Discord bots, crawlers, and automation tools** to backend processing and performance optimization  
+- From **game combat systems and frameworks** to full feature testing, strengthening my programming logic and system thinking  
 
-### 🌟 Highlights
+I mainly work with **Next.js, Tailwind CSS, TypeScript, Python, Lua/Luau, and C/C++**, and I’m continuously learning **algorithms, data structures, and system design** to build a solid foundation.  
 
-- 🎓 Student at **Taipei City University of Science and Technology**, majoring in Information Engineering (5-year program).  
-- 🎮 Years of Roblox development, focusing on **combat mechanics**, **framework design**, and **custom UI/UX**.  
-- 🛠️ First script lead at a game studio, contributing to system design and gameplay mechanics.  
-- 🚀 Actively preparing for **transfer exams, internships, and graduate opportunities** with a strong focus on algorithms & problem-solving.
+My goal is to combine **full-stack development skills with game design thinking**, taking on meaningful projects while challenging myself and creating real value. I like turning ideas into usable products—whether websites, tools, or games—and I believe that practical experience is the best teacher. Even as a student, I am already building and shipping projects, which I consider my biggest advantage.  
+
+---
 
 ## 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,nodejs,lua,python,cpp,mongodb,appwrite,supabase,git,discord&perline=15" />
 </div>
-
 
 ## 📊 GitHub Stats
 
@@ -51,10 +49,4 @@ Currently sharpening my **algorithm & system design skills** while building real
   <br/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaner652&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
----
-
-<div align="center">
-  <h4>💡 Always exploring new technologies and open to collaboration!</h4>
 </div>
