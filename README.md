@@ -19,7 +19,7 @@
 
 ---
 
-I am currently a **student in the Department of Information Engineering (5-year program)**. I started programming in middle school through Roblox Studio, which sparked my interest in **game design and interactive logic**. Over time, I expanded my skills into **full-stack web development, data handling, and automation tools**.  
+I am currently a **student in the CSIE (5-year program)**. I started programming in middle school through Roblox Studio, which sparked my interest in **game design and interactive logic**. Over time, I expanded my skills into **full-stack web development, data handling, and automation tools**.  
 
 I focus on **solving real problems and completing usable projects** rather than just learning syntax. Even as a student, I have hands-on experience spanning front-end, back-end, and game systems, which has helped me develop a more mature approach to coding and project management.  
 
