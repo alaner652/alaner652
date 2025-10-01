@@ -37,7 +37,7 @@ My goal is to combine **full-stack development skills with game design thinking*
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,nodejs,lua,python,cpp,mongodb,appwrite,supabase,git,discord&perline=15" />
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,nodejs,lua,python,cpp,mongodb,appwrite,supabase,git&perline=15" />
 </div>
 
 ## 📊 GitHub Stats
