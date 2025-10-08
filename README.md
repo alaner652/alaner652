@@ -5,19 +5,13 @@
   <h3>Full-Stack Developer | Game Developer</h3>
 </div>
 
-## 💻 Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,tailwind,ts,nodejs,lua,python,cpp,mongodb,appwrite,supabase,git&perline=15" />
 </div>
 
-## 📊 GitHub Stats
-
 <div align="center">
+  <h3>📊 GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=alaner652&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=issues&card_width=495" />
-  
-  <br/>
-  <br/>
-  
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaner652&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
