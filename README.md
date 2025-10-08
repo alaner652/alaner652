@@ -6,13 +6,7 @@
     />
   </h1>
 
-  <p><strong>Full-Stack Engineer • Game Developer • Open Source Enthusiast</strong></p>
-
-  <p>
-    Focused on building scalable web applications and immersive game systems.<br/>
-    Skilled in <b>Next.js</b>, <b>TypeScript</b>, <b>Tailwind CSS</b>, and <b>Lua/Luau</b>.<br/>
-    Passionate about <b>system design</b>, <b>clean architecture</b>, and <b>developer experience</b>.
-  </p>
+  <p><strong>Stendent • Full-Stack Engineer • Game Developer • Open Source Enthusiast</strong></p>
 
   <h3>📊 GitHub Statistics</h3>
 
