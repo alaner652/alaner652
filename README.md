@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=small+R" alt="small R" />
-  <p><strong>Stendent • Full-Stack Engineer • Game Developer • Open Source Enthusiast</strong></p>
+  <p><strong>Full-Stack Engineer • Game Developer • Open Source Enthusiast</strong></p>
   <h1></h1>
   <h3>📊 GitHub Statistics</h3>
   <p>
